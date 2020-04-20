@@ -1,0 +1,9 @@
+# other
+fig/
+temp/
+
+# .R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
